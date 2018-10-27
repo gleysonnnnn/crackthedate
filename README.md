@@ -1,3 +1,3 @@
 # Crack the date
 wordlist para brute force baseada em datas
-1970 à 2018
+1950 à 2020

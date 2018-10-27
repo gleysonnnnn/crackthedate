@@ -1,2 +1,2 @@
-# crackbirthday
-wordlist para brute force baseada em datas de aniversário
+# Crack the date
+wordlist para brute force baseada em datas
